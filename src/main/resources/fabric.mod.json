@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/hold-to-sprint",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/ruhan-p/holdtosprint"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/hold-to-sprint/icon.png",
